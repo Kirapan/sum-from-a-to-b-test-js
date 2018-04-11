@@ -1,7 +1,6 @@
 {
   "name": "sum-a-to-b",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -11,6 +10,15 @@
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.1.2",
-    "mocha": "^4.0.1"
-  }
+    "mocha": "^4.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirapan/sum-from-a-to-b-test-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kirapan/sum-from-a-to-b-test-js/issues"
+  },
+  "homepage": "https://github.com/Kirapan/sum-from-a-to-b-test-js#readme",
+  "description": ""
 }
